@@ -13,7 +13,7 @@
 ## 코드 설명
 
 |날짜|파일명|설명|
-|---|----|----||
+|---|----|----|
 |2021.xx.xx|setup_path.py|실행할 모듈(.py)과 같은 폴더에 존재 해야된다.|
 |2021.xx.xx|detection_cylinder.py|Airsim에서 기본 제공하는 코드|
 |2021.xx.xx|detection_person00.py|기본제공 코드에서 cylinder -> person 변경|
