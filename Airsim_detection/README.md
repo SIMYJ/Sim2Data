@@ -1,7 +1,7 @@
 # Unreal Engine + Airsim 환경에서 detection를 해보자. 
 
 ## 1.하고자 하는 방향
-- Unreal Engine + Airsim를 활용하여 가상환경에서 Person를 detection를(BBOX)
+- Unreal Engine + Airsim를 활용하여 가상환경에서 Person를 detection(BBOX) 하자
 
 ## 2.시작하기 전에
 - window환경에서 Airsim 설치 (Unreal Engine4.25, epicgames 설치,landscapes 다운로드, 환경설정 등등)
